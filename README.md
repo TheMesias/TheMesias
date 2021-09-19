@@ -6,7 +6,7 @@ My first love was: **C++** ♥ ...
 
 I am currently programming **WEB DEVELOPMENT** 🌐 and **DESKTOP APPLICATIONS** 💻
 
-My main programming languages/library are:  Javascript, C#, Typescript, NodeJs, ReactJs.
+My main skills are:  Javascript, C# .NET, Typescript, NodeJs, ReactJs.
 
 
 Second programming languages are:  C++, C, Python, PHP, Java. 
