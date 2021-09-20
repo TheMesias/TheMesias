@@ -1,8 +1,8 @@
 cout<<"Hello Coders :D!" 👋
 ----------
-I'm future **Software Engineer** 👨‍🎓
+Future **Software Engineer** 👨‍🎓
 
-My first love was: **C++** ♥ ...
+My first "hello world" in: **C++** ♥ 
 
 I am currently programming **WEB DEVELOPMENT** 🌐 and **DESKTOP APPLICATIONS** 💻
 
