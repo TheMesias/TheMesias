@@ -1,10 +1,14 @@
+## Education: 
+👨‍💻 Software Engineer !Complete!
+🐧 Cibersecurity !Process!
+
 
 
 ## Skills 👼: 
-| ------------- | ------------- |
+
 ### Languages: 
 
-![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)&nbsp;
+![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
@@ -25,8 +29,6 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<br>
-
 ## Skills 😈: 
 
 ### OS: 
@@ -34,4 +36,5 @@
 
 ### Languages:
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 
