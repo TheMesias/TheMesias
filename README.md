@@ -1,5 +1,6 @@
-## Education: 
-👨‍💻 Software Engineer !Complete!
+## Education 🎓: 
+👨‍💻 Software Engineer !Complete! 
+<br>
 🐧 Cibersecurity !Process!
 
 
