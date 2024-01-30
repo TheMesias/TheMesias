@@ -45,4 +45,8 @@
 ### Languages:
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+<p align="center">
+<a href="https://www.linkedin.com/in/fmesias/"><img src="https://img.shields.io/badge/-Alexander Martinez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+
+
 <h2  align="center"> Check Out My Repos ⬇️ </h2>
