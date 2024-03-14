@@ -1,11 +1,11 @@
 <h1 align="center"> 🙋 </h1>
-
+<img width="25%" align="right" alt="Github" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" />
 ## Education 🎓: 
 👨‍💻 Software Engineer !Complete! 
 <br>
 🐧 Cibersecurity !Process!
 
-<img width="25%" align="right" alt="Github" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" />
+
 
 ## Skills 👼: 
 
